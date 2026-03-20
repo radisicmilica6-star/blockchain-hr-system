@@ -20,11 +20,3 @@ npm install
 npx hardhat compile
 npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
-
-## **Korišćenje u Hardhat konzoli
-**
-npx hardhat console --network localhost
-
-## **Testiranje**
-
-npx hardhat test
